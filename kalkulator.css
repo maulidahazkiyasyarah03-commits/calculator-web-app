@@ -60,7 +60,7 @@ button {
     flex: 1;
     height: 52px;
     border: 2px solid #47a7c1;
-    background-color: #d8f1e5;
+    background-color: #c3e3ec;
     font-size: 20px;
     font-weight: bold;
     color: #236d81;
@@ -88,5 +88,6 @@ button:hover {
 }
 
 button:active {
-    background-color: #b3dcc8;
+    background-color: #9ad5e6;
 }
+
