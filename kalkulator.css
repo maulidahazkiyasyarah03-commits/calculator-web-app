@@ -60,7 +60,7 @@ button {
     flex: 1;
     height: 52px;
     border: 2px solid #47a7c1;
-    background-color: #c3e3ec;
+    background-color: #c6ebf1;
     font-size: 20px;
     font-weight: bold;
     color: #236d81;
@@ -83,11 +83,12 @@ button {
 
 /* HOVER & ACTIVE */
 button:hover {
-    background-color: #c6ead9;
+    background-color: #a4e4e4;
     cursor: pointer;
 }
 
 button:active {
-    background-color: #9ad5e6;
+    background-color: #92c7c8;
 }
+
 
